@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ABOUT
-tags: [about, Jekyll, theme, moon]
+tags: [about, 민라경, introduce, features, timeline, motivation]
 date: 2018-03-21
 comments: true
 ---
@@ -24,7 +24,7 @@ comments: true
 * 리아유치원
 * 오륜초등학교
 * 오륜중학교
-    방송부 활동
+    * 방송부 활동
 * 창덕여자고등학교
 * 명지대학교 산업디자인학부
     * 부과대 활동
