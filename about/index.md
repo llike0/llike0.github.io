@@ -8,12 +8,16 @@ comments: false
     
 <center>안녕하세요. 저의 취미이자 특기는 <a href="https://namu.wiki/w/%EC%A1%B4%EB%B2%84"><b>존버</b></a>입니다.</center>
 
+
+
 ## Features
 * 민라경
 * 1991.11.07
 * 양띠 / 전갈자리
 * rh+A
 * 송파구 거주
+
+
 
 ## Timeline
 * 의왕시 출생
@@ -39,6 +43,7 @@ comments: false
 * 완구플랫폼 프로젝트 '빅차일드' 기획중
 
 
+
 ## Motivation
 * 직접 만들어 가는 재미를 느끼며 자유롭게 글을 쓰고 싶었습니다.
 * 하지만 진짜 이유는... ↓
@@ -48,9 +53,11 @@ comments: false
 {% include gallery images=images caption="저의 형편없는 필력에 절망하고 쓸쓸함을 소중히 여길 수 있는 시간이었습니다." cols=2 %}
 
 
+
 ## I've worked for
 
 진행했던 프로젝트와 자세한 포트폴리오 내용은 [이곳](http://llike0.github.io/projects/)에서 봐주세요.
+
 
 
 ## CONTACT ME
