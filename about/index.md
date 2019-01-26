@@ -13,21 +13,29 @@ comments: false
 * 1991.11.07
 * 양띠 / 전갈자리
 * rh+A
+* 송파구 거주
+
+## Timeline
+* 의왕시 출생
+* 리아유치원
 * 오륜초등학교
 * 오륜중학교
 * 창덕여자고등학교
 * 명지대학교 산업디자인학부
-* 좋아하는 것 : 걷기, 멍때리기
-* 싫어하는 것 : 주목받기, 유머감각 없는 것
-* 책을 좋아하지만 많이 읽지는 않습니다
-* 낯을 조금 가려요
-* 건강합니다
+* 동국대학교 창업지원 프로젝트 '소근소근' ux디자이너 참여
+* 2016.09 배틀엔터테인먼트 PM 입사
+    '배틀코믹스' 유지 및 보수 기획
+    '맥심코믹스' 런칭 총괄 기획
+* 2018.12 배틀엔터테인먼트 퇴사
+* 완구플랫폼 프로젝트 '빅차일드' 기획중
 
 
 ## Motivation
-* 직접 만들어 가며 자유롭게 글을 쓰고 싶었습니다.
+* 직접 만들어 가는 재미를 느끼며 자유롭게 글을 쓰고 싶었습니다.
 * 하지만 진짜 이유는 ↓
+{% capture images %}
     https://raw.githubusercontent.com/llike0/llike0.github.io/master/assets/img/brunch_masang.png
+{% endcapture %}
 {% include gallery images=images caption="생각보다 까다로운 심사기준과 저의 형편없는 필력에 눈물을 훔쳤습니다." cols=2 %}
 
 
@@ -42,5 +50,6 @@ See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub
 
 다양한 방법으로 저에게 연락을 취할 수 있습니다만, 이메일로 연락주실 것을 권장합니다.
 Pinterest와 Netflix에서만 메일이 오기 때문에 당신의 연락을 단번에 캐치하기에 용이합니다.
-[이메일보내기](minrk1107@gmail.com){: .btn}
+
+[이메일보내기](mailto:minrk1107@gmail.com){: .btn}
 
