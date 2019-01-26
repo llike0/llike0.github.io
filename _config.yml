@@ -26,16 +26,16 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   taylantatli
+disqus_shortname:   llike0
 
 # Social
 # if you don't have any of social below, comment the line.
-#google:
-  #plus:            #username
-  #analytics:
-  #verify:
-  #ad-client:
-  #ad-slot:
+google:
+  plus:            llike0
+  analytics:
+  verify:
+  ad-client:
+  ad-slot:
 #bing-verify:
 email:              minrk1107@gmail.com
 #twitter:           username
