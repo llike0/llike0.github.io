@@ -1,10 +1,7 @@
 # Site
-title:              <p> 민라경! <p> Min Ra Kyoung
-bio:                '반갑습니다! /n 이 곳에 오신 당신은 저에 대해 조금 더 가까워 질 수 있을 거예요.  
-엄마한테도 하지 않는 이야기들이 고스란히 적혀 있거든요.  
-재미있다면 재빠르게 command + D를 눌러 주시면 됩니다.'
-description:        "Phone : 01030361107 
-Email : minrk1107@gmail.com"
+title:              <p> 민라경 <p> Min Ra Kyoung
+bio:                '반갑습니다! UX기획을 하고 있는 민라경입니다. 이 곳에 오신 당신은 저에 대해 조금 더 가까워 질 수 있을 거예요. 엄마한테도 하지 않는 이야기들이 고스란히 적혀 있거든요. 재미있다면 재빠르게 command + D를 눌러 주시면 됩니다.'
+description:        "(+82)1030361107 minrk1107@gmail.com"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
