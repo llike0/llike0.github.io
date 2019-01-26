@@ -4,7 +4,7 @@ bio:                '잘 오셨습니다. 이 곳에 오신 당신은 저에 대
 description:        "제 이야기, 제 직업에 관한 생각 등을 옮겨 적어보려 합니다. 재미있다면 재빠르게 command + D를 눌러 주세요."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo.png'
+logo:               'smile00.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
