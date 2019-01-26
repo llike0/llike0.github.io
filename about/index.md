@@ -44,7 +44,7 @@ comments: false
 
 ## I've worked for
 
-진행했던 프로젝트와 자세한 포트폴리오 내용은 [이곳](http://llike0.github.io/projects/)봐주세요.
+진행했던 프로젝트와 자세한 포트폴리오 내용은 [이곳](http://llike0.github.io/projects/)에서 봐주세요.
 
 
 ## CONTACT ME
