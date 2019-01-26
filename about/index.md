@@ -18,8 +18,10 @@ comments: false
 * 잘 먹구요.
 * 덕분에 늘 다이어트를 하고 있습니다.
 
-{% capture images %}
+{% capture image %}
     ![brunch_masang](https://user-images.githubusercontent.com/42361609/51787457-9559d380-21b5-11e9-9c7f-7af3b1ab37ca.png)
+{% endcapture %}
+
 
 ## I've worked for
 
