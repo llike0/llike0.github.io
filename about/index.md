@@ -6,7 +6,7 @@ date: 2018-03-21
 comments: false
 ---
     
-<center><a href="https://namu.wiki/w/%EC%A1%B4%EB%B2%84"><b>존버</b></a> 가 취미이자 특기입니다.</center>
+<center><a href="https://namu.wiki/w/%EC%A1%B4%EB%B2%84"><b>존버</b></a>가 취미이자 특기입니다.</center>
 
 ## Features
 * Minimal, you can focus on your content
