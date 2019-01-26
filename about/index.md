@@ -3,7 +3,7 @@ layout: page
 title: ABOUT
 tags: [about, Jekyll, theme, moon]
 date: 2018-03-21
-comments: false
+comments: true
 ---
     
 <center>안녕하세요. 저의 취미이자 특기는 <a href="https://namu.wiki/w/%EC%A1%B4%EB%B2%84"><b>존버</b></a>입니다.</center>
@@ -54,10 +54,10 @@ comments: false
 
 
 
-## CONTACT ME
+## Contact
 
 다양한 방법으로 저에게 연락을 취할 수 있습니다만, 이메일로 연락주실 것을 권장합니다.
 Pinterest와 Netflix에서만 메일이 오기 때문에 당신의 연락을 단번에 캐치하기에 용이합니다.
 
-[이메일보내기](mailto:minrk1107@gmail.com){: .btn}
+[이메일 바로 보내기](mailto:minrk1107@gmail.com){: .btn}
 
