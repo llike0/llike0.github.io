@@ -73,7 +73,7 @@ AI는 수없이 듣고 보고 심지어 집에 네이버 클로바 스피커도 
 * 준거 배치
 * 주요 폰트 등..
 
-{% include gallery images=images caption="참고 문헌 - [웹 사이트 구축을 위한 인포메이션 아키텍처](https://book.naver.com/bookdb/book_detail.nhn?bid=53359) - Louis Rosenfeld." cols=2 %}
+{% "참고 문헌 - [웹 사이트 구축을 위한 인포메이션 아키텍처](https://book.naver.com/bookdb/book_detail.nhn?bid=53359) - Louis Rosenfeld." cols=2 %}
 
 
 
