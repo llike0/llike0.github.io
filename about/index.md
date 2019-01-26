@@ -9,18 +9,19 @@ comments: false
 <center><a href="https://namu.wiki/w/%EC%A1%B4%EB%B2%84"><b>존버</b></a>가 취미이자 특기입니다.</center>
 
 ## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+* 좋아하는 것 : 걷기, 멍때리기
+* 싫어하는 것 : 주목받기, 유머감각 없는 것
+* 저는 늘 생각합니다.
+* 책을 좋아하지만 많이 읽지는 않습니다. 
+* 낯을 조금 가려요.
+* 건강합니다.
+* 잘 먹구요.
+* 덕분에 늘 다이어트를 하고 있습니다.
 
-## Preview
+{% capture images %}
+
+
+## I've worked for
 
 {% capture images %}
     https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
