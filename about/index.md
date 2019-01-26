@@ -19,7 +19,7 @@ comments: false
 * 덕분에 늘 다이어트를 하고 있습니다
 
 {% capture images %}
-    ![brunch_masang](https://user-images.githubusercontent.com/42361609/51787457-9559d380-21b5-11e9-9c7f-7af3b1ab37ca.png)
+    https://raw.githubusercontent.com/llike0/llike0.github.io/master/assets/img/brunch_masang.png
 {% endcapture %}
 {% include gallery images=images caption="이러한 이유로 이 깃헙 블로그를 만들게 되었습니다." cols=2 %}
 
