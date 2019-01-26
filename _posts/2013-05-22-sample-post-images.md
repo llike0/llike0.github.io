@@ -1,74 +1,89 @@
 ---
 layout: post
-title: "A Post with Images"
-date: 2013-05-22
-excerpt: "Examples and code for displaying images in posts."
-tags: [sample post, images, test]
+title: "IA, 중요하단 말이야!"
+date: 2017-05-22
+excerpt: "IA (Information Architecture)에 대하여.."
+tags: [IA, Information Archiecture]
 comments: true
 ---
 
-Here are some examples of what a post with images might look like. If you want to display two or three images next to each other responsively use `figure` with the appropriate `class`. Each instance of `figure` is auto-numbered and displayed in the caption.
+`IA`? `AI`? 인공지능 말하는 거 아니야?
+어느날, 우연히 UX관련 기사를 읽다가 IA라는 용어를 알게 되었다. 
+AI는 수없이 듣고 보고 심지어 집에 네이버 클로바 스피커도 있어서 익숙한데.. IA는 뭘까.. 오타가 아닐까도 생각했으나 나의 무식함이 여실히 드러나버린 사건이었다.
+자세히 알고 싶어서 관련 서적을 빌려 읽게 되었다.
+무지하던 나의 나날들을 반성하는 마음으로 경건하게 읽어내려 갔다. 그리고 정리해보기로 한다.
 
-### Figures (for images or video)
+### IA는 왜 중요할까?
 
-#### One Up
+ 빠른 변화가 당연시 되는 사회문화적 분위기에 부응하기 위하여 많으면 3개월에 한번, 적어도 6개월에 한번은 사이트를 부분적 또는 전면적으로 개편하는 것이 당연하게 여겨지고 있다. 
+그러나 새로운 사이트를 만드는 것보다 더욱 신중하게 고려해야 할 것이 바로 사이트의 개편이다. 
+잘못 설계되었다고 하더라도 이미 사용자들은 그 동안의 아키텍처와 인터페이스에 익숙해져 있어서, 잘못됨을 수정하는 것이지만 기존 사용자들에게는 또 한번의 번거로운 학습으로 느껴지기 때문이다. 
 
-<figure>
-	<a href="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_b.jpg"><img src="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_c.jpg"></a>
-	<figcaption><a href="http://www.flickr.com/photos/80901381@N04/7758832526/" title="Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr">Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr</a>.</figcaption>
-</figure>
+소규모로 시작한 사이트가 성장해서 사이트 개편을 필요로 하게 되었을 때, 사용자의 새로운 학습을 최소화하기 위해서는 아무리 작은 사이트라도 IA 기반에서 시작하여 유용한 사용자 인터페이스를 채택하여야 한다. 작은 프로젝트라도 적합한 기준을 가지고, 체크 항목들을 빠뜨리지 않고 진행한 경우와 그렇지 않은 경우는 결과물에 있어서 큰 차이가 난다. 대기업에서 막대한 예산을 들여 제작한 사이트가 아니더라도, 중소기업에서 작은 규모로 기획하고 제작했지만 사람들에게 잘 알려지고 성공한 케이스가 많다. 
 
-Vero laborum commodo occupy. Semiotics voluptate mumblecore pug. Cosby sweater ullamco quinoa ennui assumenda, sapiente occupy delectus lo-fi. Ea fashion axe Marfa cillum aliquip. Retro Bushwick keytar cliche. Before they sold out sustainable gastropub Marfa readymade, ethical Williamsburg skateboard brunch qui consectetur gentrify semiotics. Mustache cillum irony, fingerstache magna pour-over keffiyeh tousled selfies.
+네이버도 그렇게 시작되었다.
 
-#### Two Up
+웹사이트에 IA를 적용하면 적은 인력이 효율적으로 업무를 진행할 수 있게 되고, 사용자들에게도 체계적이고 효과적인 정보를 제공할 수 있다. 거추장스럽게 느껴졌던 IA가 비효율적이거나 주먹구구식일 수 밖에 없는 작은 규모의 웹사이트를 탄탄하게 만들어주고, 보다 경제적으로 구축할 수 있게 해 준다.
 
-Apply the `half` class like so to display two images side by side that share the same caption.
+### IA의 역할
 
-{% highlight html %}
-<figure class="half">
-    <a href="/images/image-filename-1-large.jpg"><img src="/images/image-filename-1.jpg"></a>
-    <a href="/images/image-filename-2-large.jpg"><img src="/images/image-filename-2.jpg"></a>
-    <figcaption>Caption describing these two images.</figcaption>
-</figure>
-{% endhighlight %}
+소규모 웹사이트 구축시 가장 어려운 점은 프로젝트의 규모에 비례하여 `시간`과 `비용`, `인력`이 배치된다는 점이다. 
+대개의 경우에는 기획자, 디자이너, 프로그래머 등 3~5명이 하나의 팀이 되어 프로젝트를 진행하게 되며 별도의 인포메이션 아키텍트를 배치할 여력이 없다. 
+그러한 현실적인 여건 때문에 IA를 무시해 버린다면 또는 아직 한번도 IA에 대해서 진지하게 생각해보지 않았다면 다시 한번 생각해보아야 한다.
 
-And you'll get something that looks like this:
+#### 정보 선정과 체계화 
+너무 많은 목적과 광범위한 타겟을 설정하면 중심이 흔들리게 되고, 소모적인 작업에 그나마 넉넉치 못한 비용과 시간과 인력을 낭비하게 된다. 처음부터 목적과 타겟을 분명히 하여 그것에 적합한 정보만을 선정한다면 사이트의 성격이 분명해질 것이다. 
 
-<figure class="half">
-	<a href="http://placehold.it/1200x600.JPG"><img src="http://placehold.it/600x300.jpg"></a>
-	<a href="http://placehold.it/1200x600.jpeg"><img src="http://placehold.it/600x300.jpg"></a>
-	<figcaption>Two images.</figcaption>
-</figure>
+선정이 되면, 정보를 일정한 기준에 맞도록 체계화한다. 해당 사이트가 제시할 정보의 성격에 따라 알파벳순, 지역순, 시간순 등 명확한 정보의 체계를 사용할 수도 있고 주제별 체계, 작업지향형의 체계와 같이 모호한 정보의 체계를 이용해야 하는 경우도 있는데 후자의 경우가 더 많다. 정보의 체계와 구조에 따라서 DB 탑재 및 검색시스템이 큰 영향을 받게 된다.
 
-#### Three Up
+#### 스폰서와 사용자의 요구 사이에서 균형을 제공
+스폰서는 보다 많은 사용자를 끌어들일 수 있는 정보를, 사용자는 자신의 관심 분야에 대한 보다 깊이 있는 정보를 원할 수도 있다. 이러한 요구에 대한 시각차이를 인식하여 갭을 최소화할 수 있는 점을 모색하여 제시하여야 한다. 프로젝트 초기에 합의를 이룬다면 재작업으로 인한 지연시간을 줄일 수 있다.
 
-Apply the `third` class like so to display three images side by side that share the same caption.
+#### 정보를 분류할 유형과 구조를 명확하게
+ 어떤 정보를 어떤 기능으로 제공할 것인지를 명확하게 하여야 정보에 대한 정의와 유형 분류가 가능해진다. 무작위로 선택되는 정보는 제작, 가공 및 제공방식을 결정하는 데에도 난항을 거듭하게 된다. 이때 정보를 DB화 할 것인지도 결정한다. 그리고 체계화된 정보들을 어떤 식으로 배치시키고, 관계를 형성할 것인지 고민한다. 사용자들이 어떤 식으로 정보를 열람하게 할 것인가에 따라 정보의 구조가 달라진다. 
+ 
+#### 해당 사이트의 메인 타겟의 정보검색 방식에 대해서 분석
+사이트 주사용자는 어떤 성향을 가지고 있으며, 이 사이트에 왜 오는가를 깊이 있게 논의하여 보고, 논의의 결론이 실제로 그러한지 FGI(Focus Group Interview)를 실시한다. FGI는 많은 인원을 동원한 대규모의 인터뷰가 아니라 적합한 소비자층의 인원 5~8명 정도에게 실시하면 된다.
 
-{% highlight html %}
-<figure class="third">
-	<img src="/images/image-filename-1.jpg">
-	<img src="/images/image-filename-2.jpg">
-	<img src="/images/image-filename-3.jpg">
-	<figcaption>Caption describing these three images.</figcaption>
-</figure>
-{% endhighlight %}
+#### 쉽고 안정적인 네비게이션 시스템
+이 사이트에서 어떤 네비게이션 방식을 채택할 것인가를 논의한 후 네비게이션을 그룹별로 작성한다. 이때 중심정보를 구성하는 Central Navigation의 Primary Navigation과 그 하위 구조의 균형을 고려하여 너무 깊거나 넓지 않도록 한다. 네비게이션은 인포메이션 아키텍처의 심장이다. 네비게이션의 설계는 사이트 내의 사용자들의 동선을 좌우하는 결정적인 역할을 한다. 네비게이션을 몇 개의 그룹으로 할 것인지, 어떤 종류의 네비게이션 시스템을 사용할 것인지 결정한다. 중소규모 사이트에서의 네비게이션 시스템은 대개 메뉴를 중심으로 작성되어 브라우징을 지원한다.
 
-And you'll get something that looks like this:
+#### 검색 인터페이스
+사이트에 수록된 정보의 양과 사용자들의 검색 패턴, 사이트의 성격 등이 검색시스템을 붙일 것인지 아닌지를 결정하는 요인이 된다. 무턱대고 검색 인터페이스를 붙인다고 해서 잘못된 구조를 개선할 수 있는 것은 아니며, 검색 인터페이스가 지금 당장 필요 없다고 해서 검색 불가능한 미로 같은 구조로 정보를 설계해서는 안된다.
 
-<figure class="third">
-	<img src="http://placehold.it/600x300.jpg">
-	<img src="http://placehold.it/600x300.jpg">
-	<img src="http://placehold.it/600x300.jpg">
-	<figcaption>Three images.</figcaption>
-</figure>
+먼저 사이트에 검색 엔진을 제공할 것인지를 결정하여야 한다. 제대로 구조화되지 않은 사이트에 검색엔진을 무분별하게 사용하면 검색의 결과가 늘 불만족스럽게 나오게 되어 오히려 사이트의 브라우징 기능 마저 신뢰를 떨어뜨리게 될 위험이 있다. 
 
-### Alternative way
+#### 프로그래머와 디자이너가 원활하게 작업하도록 정보제작 가이드라인 제시
+페이지의 체계, 용어의 사용, 정보의 포맷과 사이즈, 형태 등에 대한 공통된 가이드라인이 있어야 품질과 일관성을 유지한 정보를 제작할 수 있다. 이를 위하여 정보 리스트를 작성하게 되며 화면설계에 이 리스트가 포함된다.
 
-Another way to achieve the same result is to include `gallery` Liquid template. In this case you
-don't have to write any HTML tags – just copy a small block of code, adjust the parameters (see below)
-and fill the block with any number of links to images. You can mix relative and external links.
+#### 레이블링 시스템 설계
+레이블링 시스템은 개발 프로세스에 있어서 가장 무시되어 온 요소이다. 레이블 중에서 네비게이션 시스템의 이름으로서의 레이블은 네비게이션 시스템을 구성함과 동시에 붙여진 이름을 그대로 레이블로 사용하는 경우가 많았으며, 정보 내에서의 표제 레이블이나 링크 레이블로 즉흥적으로 작성되어 사용되어왔다. 그러나 실제로 사용자에게 있어서는 정보의 구조나 네비게이션 못지 않게 레이블링 시스템이 중요하다. 왜냐하면 사용자가 만나게 되는 비주얼은 결국 레이블들이고, 레이블을 통하여 그 사이트에 계속 머무를지 말지를 결정하기 때문이다. 소규모의 사이트 개발에 있어서는 레이블링 작업에 전 팀원이 참여하여 참신하면서도 의미가 왜곡되지 않은 레이블을 얻기 위하여 노력하여야 한다.
 
-Here is the block you might want to use:
+#### 레이아웃 설계
+레이아웃은 정보의 가독성을 높이기 위한 사이트의 밑그림이다. 레이아웃은 위에서 이야기한 레이블링 시스템을 포함하여 화면에 정보의 우선순위에 맞도록, 사용자들의 요구에 맞도록 배치하는 작업이다. 도큐멘트 페이지를 레이아웃하거나 폼을 레이아웃하여 일관된 포맷을 제공함으로써 사용자들은 페이지 내에서 보다 쉽게 정보를 얻을 수 있게 된다.
+
+#### 웹사이트 레이아웃과 디자인의 스타일 가이드를 제시
+웹사이트의 UI 디자인과 페이지 레이아웃을 위하여 디자이너와의 긴밀한 협의가 필요하며, 사이트의 세부적인 디자인에 대한 스타일 가이드를 제시한다. 스타일 가이드에는 여러가지들이 포함된다.
+
+사이트의 목적
+
+독자성
+
+템플릿 구성
+
+템플릿 규격
+
+네비게이션
+
+콘텐츠 영역
+
+준거 배치
+
+주요 폰트 등..
+
+
+참고 문헌 - 웹 사이트 구축을 위한 인포메이션 아키텍처 - Louis Rosenfeld
+
 
 {% highlight liquid %}
 {% raw %}
