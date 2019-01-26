@@ -74,7 +74,7 @@ Information Archiecture의 약자이다. 말 그대로 `정보 구조`라는 뜻
 * 준거 배치
 * 주요 폰트 등..
 
-{"참고 문헌 - [웹 사이트 구축을 위한 인포메이션 아키텍처](https://book.naver.com/bookdb/book_detail.nhn?bid=53359) - Louis Rosenfeld." cols=2}
+{% "참고 문헌 - [웹 사이트 구축을 위한 인포메이션 아키텍처](https://book.naver.com/bookdb/book_detail.nhn?bid=53359) - Louis Rosenfeld." cols=2 %}
 
 
 
