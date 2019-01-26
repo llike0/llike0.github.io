@@ -1,7 +1,7 @@
 # Site
-title:              민라경!
-bio:                '나 그리고 내 직업'
-description:        "반갑습니다. 이곳은 나에 대한 이야기와 내 직업에 관한 이야기들을 풀어놓는 공간입니다."
+title:              민라경 (91년생/서울)
+bio:                '잘 오셨습니다. 이 곳에 오신 당신은 저에 대해 조금 더 가까워 질 수 있을 거예요. 우리 엄마한테도 안하는 이야기들이 고스란히 적혀 있거든요.'
+description:        "제 이야기, 제 직업에 관한 생각 등을 옮겨 적어보려 합니다. 재미있다면 재빠르게 command + D를 눌러 주세요."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
