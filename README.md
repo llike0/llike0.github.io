@@ -17,11 +17,6 @@
 * Optional background image
 * Simple navigation menu
 * MathJax support
-![brunch_masang](https://user-images.githubusercontent.com/42361609/51787457-9559d380-21b5-11e9-9c7f-7af3b1ab37ca.png)
-## Preview
-
-![screenshot of Moon](https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png)    
-![screenshot of Moon](https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png)
 
 See a [live version of Moon](https://taylantatli.github.io/Moon) hosted on GitHub.
 
