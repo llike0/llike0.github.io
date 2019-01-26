@@ -32,18 +32,16 @@ comments: false
 
 ## Motivation
 * 직접 만들어 가는 재미를 느끼며 자유롭게 글을 쓰고 싶었습니다.
-* 하지만 진짜 이유는 ↓
+* 하지만 진짜 이유는... ↓
 {% capture images %}
     https://raw.githubusercontent.com/llike0/llike0.github.io/master/assets/img/brunch_masang.png
 {% endcapture %}
-{% include gallery images=images caption="생각보다 까다로운 심사기준과 저의 형편없는 필력에 눈물을 훔쳤습니다." cols=2 %}
+{% include gallery images=images caption="저의 형편없는 필력에 절망하고 쓸쓸함을 소중히 여길 수 있는 시간이었습니다." cols=2 %}
 
 
 ## I've worked for
 
-
-
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+진행했던 프로젝트와 자세한 포트폴리오 내용은 [이곳](http://llike0.github.io/projects/)봐주세요.
 
 
 ## CONTACT ME
