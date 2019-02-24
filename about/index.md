@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ABOUT
+title: ABOUT ME
 tags: [about, 민라경, introduce, features, timeline, motivation]
 date: 2018-03-21
 comments: true
@@ -34,7 +34,7 @@ comments: true
     * '배틀코믹스' 유지 및 보수 기획
     * '맥심코믹스' 런칭 총괄 기획   
 * 2018.12 배틀엔터테인먼트 퇴사
-* 완구플랫폼 프로젝트 '빅차일드' 기획중
+* 2019.02~ 완구플랫폼 '빅차일드' 기획
 
 
 
