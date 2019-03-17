@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Moon Jekyll Theme"
-date:   2016-04-06
-excerpt: "Minimal, one column Jekyll theme for your blog."
+title:  "맥심코믹스 런칭 프로젝트"
+date:   2018-10-06
+excerpt: "MAXIM x BATTLE ent."
 project: true
 tag:
 - jekyll 
