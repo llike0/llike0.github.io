@@ -13,7 +13,7 @@ tag:
 comments: true
 ---
 
-![Moon Homepage](https://comics.maximkorea.net/opengraph.jpg)    
+![Maximcomics teaser](https://comics.maximkorea.net/opengraph.jpg)    
     
 <center><b>MAXIMCOMICS x BATTLE ent.</b></center>
      
