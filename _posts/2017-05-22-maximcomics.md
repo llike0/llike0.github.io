@@ -5,10 +5,6 @@ date:   2018-10-06
 excerpt: "남성잡지 MAXIM사와의 콜라보 프로젝트, "맥심코믹스" 서비스 런칭 프로젝트"
 project: true
 tag:
-- 맥심
-- MAXIM
-- 웹툰
-- 배틀엔터테인먼트
 - 
 comments: true
 ---
