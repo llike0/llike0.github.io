@@ -2,20 +2,20 @@
 layout: post
 title:  "맥심코믹스 런칭 프로젝트"
 date:   2018-10-06
-excerpt: "MAXIM x BATTLE ent."
+excerpt: "남성잡지 MAXIM사와의 콜라보 프로젝트, "맥심코믹스" 서비스 런칭 프로젝트"
 project: true
 tag:
-- jekyll 
-- moon
-- blog
-- about
-- theme
+- 맥심
+- MAXIM
+- 웹툰
+- 배틀엔터테인먼트
+- 
 comments: true
 ---
 
-![Moon Homepage](https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png)    
+![Moon Homepage](https://comics.maximkorea.net/opengraph.jpg)    
     
-<center><b>Moon</b> is a minimal, one column jekyll theme.</center>
+<center><b>MAXIMCOMICS x BATTLE ent.</b></center>
      
  I'm not a developer or designer. And I don't add footer to show who did this theme. If you like this theme or using it, please give a **star** for motivation, It makes me happy.
 
